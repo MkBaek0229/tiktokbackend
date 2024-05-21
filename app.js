@@ -25,7 +25,7 @@ Save your credentials in a secure place -- you won't be able to see them again!
 const pool = new Pool({
   user: "postgres",
   password: "9DQnxnh37LBOCnE",
-  host: "tiktokar.internal",
+  host: "tiktokar.flycast",
   database: "postgres",
   port: 5432,
 });
